@@ -4,7 +4,7 @@
 I right codes that impacts reality!<br>If it scales, I’m interested. If it’s "impossible," I’m already coding it.<br><br>- 🧠 Teaching LLMs to think in graphs.<br>- ⚡ Optimizing high-concurrency backends.<br>- ☁️ Orchestrating the cloud-native void.
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=53FFAD&width=435&lines=Full+Stack+Developer;AI+Engineer+--Agentic+Workflows;Backend+Architect+--10k+RPS;600%2B+LeetCode+Solutions+Cycles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=53FFAD&width=435&lines=Full+Stack+Developer;AI+Engineer+--Agentic+Workflows;Backend+Architect+--10k+RPS;600%2B+Problem+Solved" alt="Typing SVG" />
 </p>
 
 ---
